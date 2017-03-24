@@ -1,5 +1,9 @@
 # OpenTok Elm Demo
 
+## Pre-Requisites
+
+- Elm
+
 ## Setup
 
 ```
